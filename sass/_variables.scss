@@ -1,0 +1,28 @@
+
+$color-primary: #039be5;
+$color-primary-light: #29b6f6;
+$color-primary-dark: #0288d1;
+
+$color-white: #fff;
+
+$color-gray-light-1: #faf9f9;
+$color-gray-light-2: #f4f2f2;
+$color-gray-light-3: #f0eeee;
+$color-gray-light-4: #ccc;
+
+$color-gray-dark-1: #333;
+$color-gray-dark-2: #777;
+$color-gray-dark-3: #999;
+
+
+$color-dark: #000;
+
+$shadow-light: 0 .4rem .9rem rgba(0, 0, 0, 0.02);
+
+$line: 1px solid $color-gray-light-1;
+
+
+$breakpoint-largest: 75em; // 1200 / 16px = 75em
+$breakpoint-large: 68.75em; // 1100 / 16 = 68,75em;
+$breakpoint-medium: 56.25em; // 900 / 16 = 56,25em;
+$breakpoint-small: 37.5em; // 600 / 16 = 37.5em;
